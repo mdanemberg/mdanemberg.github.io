@@ -1,0 +1,13 @@
+# Site settings
+title: Matheus Danemberg
+email: matheusdanemberg@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Front-end developer viciado em javascript, trabalha na AG2 Publics Modem em Pelotas-RS
+  e também mantem projetos pessoais.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: mdanemberg
+github_username:  mdanemberg
+
+# Build settings
+markdown: kramdown

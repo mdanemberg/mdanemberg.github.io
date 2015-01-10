@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Maratona de palestras e carreira profissional"
+date:   2014-10-14 00:00:00
+categories: jekyll update
+---
+Como todo programador estou passando pela fase de criar um blog. Após palestrar e entrar
+em contato com muitas pessoas acabei achando necessário criar esse canal de comunicação para
+divulgar os conteúdos da palestras de uma forma mais completa e também para fazer posts semanais
+sobre as tecnologias que eu trabalho ou costumo estudar.
+
+- ####Maratona de palestras
+
+Nesse setembro/outubro de 2014 eu já palestrei em 2 eventos (TcheLinux Pelotas 2014 e Semana
+Acadêmica do IFRS - Rio Grande) e dei um minicurso em outro (SASPI - 2014), isso
+já foi um grande feito pra mim e ainda faltam mais duas palestras (The Developers
+Conference - POA e Semana Acadêmica SENAC - Pelotas). Há muito tempo eu tinha essa vontade
+ de palestrar mas nunca submetia nada pra nenhum evento, até o dia em que resolvi submeter
+ para o TcheLinux e felizmente fui aceito! A partir dai me empolguei e comecei e submeter
+ para todos os eventos da região e até agora todos aceitaram.
+
+- ####Careira profissional
+
+Eu comecei a trabalhar relativamente cedo, com 18 anos eu já estava trabalhando como desenvolvedor
+web, passei por uma agência de publicidade e depois por uma produtora de tecnologia, nessa produtora
+eu evolui muito tecnicamente e paralelo a isso como todo bom iniciante na programação eu levava uma
+vida agitada de freelas o que despertou em mim a ideia de abrir uma empresa.
+
+Depois de estar trabalhando há 1 ano nessa produtora e já me considerando bom tecnicamente,
+me demiti para tentar montar a tal empresa. A empresa seria uma "produtora de produtos" queriamos
+botar em prática nossas ideias, criar produtos! Nessa sociedade eu era o único programador e
+com toda a minha empolgação achei que conseguiria fazer tudo sozinho, de fato qualidade técnica
+eu tinha e conseguimos fazer algumas coisas mas não estava dando muito certo como um todo então
+resolvemos parar.
+
+Nesse tempo trabalhando sozinho como programador eu evolui muito tecnicamente, eu não tinha pra
+quem perguntar "como se faz tal coisa? tu já fez isso antes?" as perguntas mais frequentes dentro
+de uma equipe de programação onde o mais novo pergunta pro mais velho antes de começar a fazer.
+Meu colega de trabalho foi o Google nesse período.
+
+Eu pensei muito antes de resolver voltar para o mercado de trabalho, eu sempre quis ter a minha
+empresa, trabalhar nos meus projetos mas quando recebi a proposta da AG2 fiquei realmente empolgado,
+é uma empresa gigante com clientes absurdos a nível nacional, isso me deixa muito empolgado,
+saber que milhares ou talvez milhões de pessoas vão acessar o produto que tu
+criou é uma coisa muito legal.
+
+- ####Palestras + Carreira profissional
+
+Sempre quis fazer palestras pois além de compartilhar o conhecimento com muitas
+pessoas o palestrante acaba evoluindo profissionalmente porque teve que estudar
+bastante sobre a tecnologia antes da apresentação para passar o conteudo com
+convicção. Após essas duas palestras e o minicurso já começaram a aparecer pessoas
+me procurando para tirar dúvidas, agora não sei se expliquei mal na palestra ou se são
+realmente dúvidas, espero que sejam apenas dúvidas hhahha

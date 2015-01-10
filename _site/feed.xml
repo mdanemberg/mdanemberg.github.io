@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matheus Danemberg</title>
+    <description>Front-end developer viciado em javascript, trabalha na AG2 Publics Modem em Pelotas-RS e também mantem projetos pessoais.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 14 Oct 2014 01:27:33 -0300</pubDate>
+    <lastBuildDate>Tue, 14 Oct 2014 01:27:33 -0300</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Maratona de palestras e carreira profissional</title>
+        <description>&lt;p&gt;Como todo programador estou passando pela fase de criar um blog. Após palestrar e entrar
+em contato com muitas pessoas acabei achando necessário criar esse canal de comunicação para
+divulgar os conteúdos da palestras de uma forma mais completa e também para fazer posts semanais
+sobre as tecnologias que eu trabalho ou costumo estudar.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;maratona-de-palestras&quot;&gt;Maratona de palestras&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nesse setembro/outubro de 2014 eu já palestrei em 2 eventos (TcheLinux Pelotas 2014 e Semana
+Acadêmica do IFRS - Rio Grande) e dei um minicurso em outro (SASPI - 2014), isso
+já foi um grande feito pra mim e ainda faltam mais duas palestras (The Developers
+Conference - POA e Semana Acadêmica SENAC - Pelotas). Há muito tempo eu tinha essa vontade
+ de palestrar mas nunca submetia nada pra nenhum evento, até o dia em que resolvi submeter
+ para o TcheLinux e felizmente fui aceito! A partir dai me empolguei e comecei e submeter
+ para todos os eventos da região e até agora todos aceitaram.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;careira-profissional&quot;&gt;Careira profissional&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Eu comecei a trabalhar relativamente cedo, com 18 anos eu já estava trabalhando como desenvolvedor
+web, passei por uma agência de publicidade e depois por uma produtora de tecnologia, nessa produtora
+eu evolui muito tecnicamente e paralelo a isso como todo bom iniciante na programação eu levava uma
+vida agitada de freelas o que despertou em mim a ideia de abrir uma empresa.&lt;/p&gt;
+
+&lt;p&gt;Depois de estar trabalhando há 1 ano nessa produtora e já me considerando bom tecnicamente,
+me demiti para tentar montar a tal empresa. A empresa seria uma “produtora de produtos” queriamos
+botar em prática nossas ideias, criar produtos! Nessa sociedade eu era o único programador e
+com toda a minha empolgação achei que conseguiria fazer tudo sozinho, de fato qualidade técnica
+eu tinha e conseguimos fazer algumas coisas mas não estava dando muito certo como um todo então
+resolvemos parar.&lt;/p&gt;
+
+&lt;p&gt;Nesse tempo trabalhando sozinho como programador eu evolui muito tecnicamente, eu não tinha pra
+quem perguntar “como se faz tal coisa? tu já fez isso antes?” as perguntas mais frequentes dentro
+de uma equipe de programação onde o mais novo pergunta pro mais velho antes de começar a fazer.
+Meu colega de trabalho foi o Google nesse período.&lt;/p&gt;
+
+&lt;p&gt;Eu pensei muito antes de resolver voltar para o mercado de trabalho, eu sempre quis ter a minha
+empresa, trabalhar nos meus projetos mas quando recebi a proposta da AG2 fiquei realmente empolgado,
+é uma empresa gigante com clientes absurdos a nível nacional, isso me deixa muito empolgado,
+saber que milhares ou talvez milhões de pessoas vão acessar o produto que tu
+criou é uma coisa muito legal.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;palestras--carreira-profissional&quot;&gt;Palestras + Carreira profissional&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sempre quis fazer palestras pois além de compartilhar o conhecimento com muitas
+pessoas o palestrante acaba evoluindo profissionalmente porque teve que estudar
+bastante sobre a tecnologia antes da apresentação para passar o conteudo com
+convicção. Após essas duas palestras e o minicurso já começaram a aparecer pessoas
+me procurando para tirar dúvidas, agora não sei se expliquei mal na palestra ou se são
+realmente dúvidas, espero que sejam apenas dúvidas hhahha&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Oct 2014 21:00:00 -0300</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2014/10/13/maratona.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/10/13/maratona.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 13 Oct 2014 19:57:26 -0300</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2014/10/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/10/13/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
